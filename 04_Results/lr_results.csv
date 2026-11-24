@@ -1,0 +1,2 @@
+PUF,Challenge_Length,CRPs,Model,Accuracy,Training_Time_Seconds
+Arbiter PUF,64,10000,Logistic Regression,0.549,0.0037314160144887865

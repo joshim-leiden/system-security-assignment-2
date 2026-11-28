@@ -1,3 +1,3 @@
 Model,Accuracy (%),Training Time (s)
-LR - Raw Challenges,54.900000000000006,0.0037314160144887865
-LR - Transformed Challenges,98.95,0.0038109589950181544
+LR - Raw Challenges,54.900000000000006,0.029158499964978546
+LR - Transformed Challenges,98.95,0.037014300003647804

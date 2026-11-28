@@ -1,5 +1,5 @@
 Model,Accuracy (%),Training Time (s)
-Logistic Regression - Raw,54.9,0.01456
-Logistic Regression - Transformed,98.95,0.007318
-MLP - Raw,53.6,0.32489454199094325
-MLP - Transformed,96.39999999999999,0.2992030839668587
+Logistic Regression - Raw,54.900000000000006,0.029158499964978546
+Logistic Regression - Transformed,98.95,0.037014300003647804
+MLP - Raw,53.6,2.165142600017134
+MLP - Transformed,96.39999999999999,2.0959718000376597
